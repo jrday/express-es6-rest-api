@@ -2,6 +2,7 @@ Express & ES6 REST API Boilerplate
 ==================================
 
 This is a straightforward boilerplate for building REST APIs with ES6 and Express.
+You're welcome.
 
 - ES6 support via [babel](https://babeljs.io)
 - REST resources as middleware via [resource-router-middleware](https://github.com/developit/resource-router-middleware)
